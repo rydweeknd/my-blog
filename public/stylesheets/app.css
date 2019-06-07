@@ -1,0 +1,19 @@
+i.icon {
+    font-size: 1.8em;
+}
+
+.container.main {
+    margin-top: 7.0em;
+}
+
+#delete {
+    display: inline;
+}
+
+.ui.centered.image {
+    margin-bottom: 15px;
+}
+
+.description {
+    margin: 10px auto;
+}
